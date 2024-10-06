@@ -163,3 +163,12 @@ html {
 	}
   }
   
+  .justified-list {
+    text-align: justify;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.justified-list li {
+    margin-bottom: 20px; /* Adjust this for more or less space */
+}
